@@ -1,0 +1,3 @@
+D:\Github\Unreal-Engine-Battery-Collector-CPP\BatteryCollector\Source\BatteryCollector\BatteryCollector.Build.cs
+D:\Github\Unreal-Engine-Battery-Collector-CPP\BatteryCollector\Source\BatteryCollector.Target.cs
+D:\Github\Unreal-Engine-Battery-Collector-CPP\BatteryCollector\Source\BatteryCollectorEditor.Target.cs
